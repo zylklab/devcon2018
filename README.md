@@ -6,7 +6,7 @@ The materials for the lighting talk presentation are linked here:
 
 ### Alfresco monitoring setups with Nagios and ELK stack using JMX and OOTB Support tools
 
-TODO
+![Basic Setup for ELK and Alfresco](alfresco_monitor.png)
 
 ## About the author
 
