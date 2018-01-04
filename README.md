@@ -19,5 +19,14 @@ Cesar Capillas is IT/Solution Architect at zylk.net, an OOTB member working with
 ## Related links
 
 - [ELK setup for Alfresco](https://github.com/zylklab/alfresco-elk)
-- [Nagios / Icinga setup for Alfresco](https://github.com/zylklab/alfresco-nagios)
+- [Nagios setup for Alfresco](https://github.com/zylklab/alfresco-nagios)
 - [Alfresco Devcon 2018](https://devcon.alfresco.com/)
+
+## Related posts
+
+- [Kibana dashboard for monitoring Alfresco JMX metrics](https://www.zylk.net/es/web-2-0/blog/-/blogs/kibana-dashboard-for-monitoring-alfresco-jmx-metrics)
+- [Kibana dashboard for monitoring Alfresco Logs](https://www.zylk.net/es/web-2-0/blog/-/blogs/simple-kibana-dashboard-for-monitoring-alfresco-logs)
+- [Kibana dashboard for monitoring Alfresco CE via OOTB Support Tools](https://www.zylk.net/es/web-2-0/blog/-/blogs/kibana-dashboard-for-monitoring-alfresco-community-via-ootb-support-tools)
+- [Nagios setup for Alfresco CE](https://www.zylk.net/es/web-2-0/blog/-/blogs/basic-nagios-setup-for-alfresco-community)
+- [Docker Image for Nagios setup for Alfresco CE](https://www.zylk.net/es/web-2-0/blog/-/blogs/docker-image-for-nagios-setup-for-alfresco-community)
+- [Enabling JMX in Alfresco](https://www.zylk.net/es/web-2-0/blog/-/blogs/enabling-jmx-in-alfresco)
