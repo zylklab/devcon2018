@@ -8,6 +8,8 @@ The materials for the lighting talk presentation are linked here:
 
 ![Basic Setup for ELK and Alfresco](alfresco_monitor.png)
 
+https://services.zylk.net/share/s/qGMn2fR6TD2KnFacfXgUGA
+
 ## About the author
 
 Cesar Capillas is IT/Solution Architect at zylk.net, an OOTB member working with Alfresco-based solutions during the last 8 years in large organisations. He is the author of a corporate Alfresco Blog, addons developer and a very active user in Alfresco Community.
